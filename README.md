@@ -22,4 +22,4 @@ python3 generate.py --image ~/Downloads/your_image.jpeg --max-colors 15 --min-br
 ## Results
 In this example, you'll produce a couple files "paint_by_number_my_image_test.jpg", "preview_my_image_test.jpg", and "color_sheet_my_image_test.jpg". Play around with the "max-colors" and "min-brush-size" inputs as needed to get the perfect paint by number. Enjoy :)
 
-
+![alt text](https://github.com/jnatale11/CustomPaintByNumberGenerator/examples/preview_sm_beach.jpg?raw=true)
