@@ -7,7 +7,7 @@ Turn a special photo into a paint by number!
 ## Example Output
 ![alt text](https://github.com/jnatale11/CustomPaintByNumberGenerator/blob/main/examples/paint_by_number_sm_beach.jpg?raw=true) ![alt text](https://github.com/jnatale11/CustomPaintByNumberGenerator/blob/main/examples/preview_sm_beach.jpg?raw=true) ![alt text](https://github.com/jnatale11/CustomPaintByNumberGenerator/blob/main/examples/color_sheet_sm_beach.jpg?raw=true)
 
-## How to do it (On Mac or Linux)
+## How to run it (On Mac or Linux)
 - Verify you have Python 3.4 or higher installed <https://www.python.org/downloads/>
 - Download the code
 ```
